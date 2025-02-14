@@ -3,3 +3,7 @@
 
 start() ->
     io:format("Hello, World!~n").
+
+% erl
+% c(env_test).
+% env_test:start().
